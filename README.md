@@ -153,5 +153,4 @@ GROUP BY column1
 HAVING COUNT(*) > 1;
 ```
 
-This cheat sheet covers fundamental MySQL CRUD operations. Let me know if you need additional details or advanced queries!
 
